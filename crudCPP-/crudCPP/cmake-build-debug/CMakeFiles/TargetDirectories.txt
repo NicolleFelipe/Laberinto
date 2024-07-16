@@ -1,0 +1,3 @@
+C:/Users/nicol/Downloads/Proyecto/crudCPP-/crudCPP/cmake-build-debug/CMakeFiles/crudCPP.dir
+C:/Users/nicol/Downloads/Proyecto/crudCPP-/crudCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nicol/Downloads/Proyecto/crudCPP-/crudCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
